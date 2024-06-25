@@ -1,0 +1,9 @@
+a:2:{s:5:"title";s:5:"Title";s:4:"text";s:7:"Example";}
+a:2:{s:5:"title";s:5:"Title";s:4:"text";s:7:"Example";}
+a:2:{s:5:"title";s:5:"Title";s:4:"text";s:236:"Or, keep it light and add a border for some added definition to the boundaries of your content. Be sure to look under the hood at the source HTML here as we've adjusted the alignment and sizing of both column's content for equal-height.";}
+a:2:{s:5:"title";s:7:"Heading";s:4:"text";s:236:"Or, keep it light and add a border for some added definition to the boundaries of your content. Be sure to look under the hood at the source HTML here as we've adjusted the alignment and sizing of both column's content for equal-height.";}
+a:2:{s:5:"title";s:5:"mynew";s:4:"text";s:25:"&lt;b&gt;string&lt;/b&gt;";}
+a:2:{s:5:"title";s:5:"Title";s:4:"text";s:23:"<i>Example textarea</i>";}
+a:2:{s:5:"title";s:3:"qqq";s:4:"text";s:4:"test";}a:2:{s:5:"title";s:6:"double";s:4:"text";s:476:"Or, keep it light and add a border for some added definition to the boundaries of your content. Be sure to look under the hood at the source HTML here as we've adjusted the alignment and sizing of both column's content for equal-height.
+
+Or, keep it light and add a border for some added definition to the boundaries of your content. Be sure to look under the hood at the source HTML here as we've adjusted the alignment and sizing of both column's content for equal-height.";}
